@@ -8,11 +8,10 @@
 
 ### A budding programmer<br>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech From L.P.U** <br>
+- 👨‍🏭 I’m currently pursuing **B.Tech From LOVELY PROFESSIONAL UNIVERSITY** <br>
 - 🏫 I’m currently learning **web Development & Data Science** <br>
 - 🙌 I’m looking to collaborate on **design & backend** <br>
-- 🤔 I’m looking for help with ****<br>
-- 🥅 Upcoming Goals: **** <br>
+  
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
