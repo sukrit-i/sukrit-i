@@ -14,9 +14,6 @@
   
 
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/sukritisonam-pattnaik/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/sukritisonam-pattnaik//)](https://www.linkedin.com/in/https://www.linkedin.com/in/sukritisonam-pattnaik//) 
 [![Twitter Badge](https://img.shields.io/badge/-@-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) 
 [![Facebook Badge](https://img.shields.io/badge/--3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/) 
